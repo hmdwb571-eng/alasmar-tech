@@ -4,7 +4,7 @@ const filesToCache = [
   "index.html",
   "style.css",
   "manifest.json",
-  "icons/logo.png"
+  "logo.png"
 ];
 
 self.addEventListener("install", function(event) {
